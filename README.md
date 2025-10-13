@@ -1,10 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mieramensatu.mieramensatu" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aidinferaz" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+All!+👋;+Ich+bin+Aidin+Ferarista!;" />
 </h1>
 
-🔭 I’m currently working on my study on Artificial Intelligence Engineering<br>🌱 I’m currently learning AI Stuff<br>💬 Ask me about what do you need to ask<br>⚡ Fun fact I live
+<div align="center">
+    <img alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5eDM4a3pnc3Q4MmQ4aHYwOXk0ZzJ5ZTZwMnBuajlmem4xZm5ibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
+</div>
+
+<p align="center">
+    <b>🌱 I’m currently learning:</b> Data Science and stuff.  
+</p>
+<p align="center">
+    <b>💬 Ask me about:</b> anything you want to ask 
+</p>
+<p align="center">
+    <b>📫 How to reach me:</b> aidinferarsista@gmail.com  
+</p>
+<p align="center">
+    <b>⚡ Fun fact:</b> I live
+</p>
 
 
 ## 🌐 Socials:
