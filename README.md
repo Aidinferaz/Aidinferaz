@@ -1,4 +1,8 @@
-![Header](./github-header-banner.png)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mieramensatu.mieramensatu" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+All!+👋;+Ich+bin+Aidin+Ferarista!;" />
+</h1>
 
 🔭 I’m currently working on my study on Artificial Intelligence Engineering<br>🌱 I’m currently learning AI Stuff<br>💬 Ask me about what do you need to ask<br>⚡ Fun fact I live
 
