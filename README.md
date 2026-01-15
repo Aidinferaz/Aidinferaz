@@ -15,7 +15,7 @@
     <b>💬 Ask me about:</b> anything you want to ask 
 </p>
 <p align="center">
-    <b>📫 How to reach me:</b> aidinferarsista@gmail.com  
+    <b>📫 How to reach me:</b> aidinferarista@gmail.com  
 </p>
 <p align="center">
     <b>⚡ Fun fact:</b> I live
